@@ -17,4 +17,4 @@ The pipeline should be followed such that-
 
 Currently there is 100 percent accuracy in classifying glitches and merger signals in all training,validation and testing sets.
 
-I am attaching the Gltich_signal data directly here for easier download and reference incase you want to skip the initial downloading part or even skip processing the transform and directly just use the model.
+I am attaching the Gltich signals data directly here: https://drive.google.com/drive/folders/1JjA7b-67LyLLOYRvtfSzgph4-VXUHNJy?usp=sharing. This is for easier download and reference incase you want to skip the initial downloading part or even skip processing the transform and directly just use the model.
