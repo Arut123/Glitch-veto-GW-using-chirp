@@ -12,7 +12,7 @@ The trained model is "Model_classification,hdf5".You could use the corresponding
 
 The pipeline should be followed such that-
 1)Run the Glitch_data_pipeline to download glitch signals as .hdf5 files having attributes. The csv files uploaded have the url and will download. If system is non-linux change the code accordingly
-2)Run the glitch_volume_stats.csv and Merger_volumes.csv for the chirp transform and saving the positive and negative chirp domain's power distribution as csv files in separate directories.
+2)Run the Glitch_volume_stats.ipynb and Merger_volumes.ipynb for the chirp transform and saving the positive and negative chirp domain's power distribution as csv files in separate directories.
 3)Run the Model_classification on the csv files containing distributions to get a classification.
 
 Currently there is 100 percent accuracy in classifying glitches and merger signals in all training,validation and testing sets.
