@@ -18,3 +18,5 @@ The pipeline should be followed such that-
 Currently there is 100 percent accuracy in classifying glitches and merger signals in all training,validation and testing sets.
 
 I am attaching the Gltich signals data directly here: https://drive.google.com/drive/folders/1JjA7b-67LyLLOYRvtfSzgph4-VXUHNJy?usp=sharing. This is for easier download and reference incase you want to skip the initial downloading part or even skip processing the transform and directly just use the model.
+
+I further classified glitches into their sub classes- mainly in the Subclassification_differenttests_cnnandtransformer.ipynb file. It performs better or comparitively similar to the original Gravity Spy proect- the data of those glitch catalogue could be found here- https://zenodo.org/records/5649212 and the image spectrograms of them directly here- https://www.kaggle.com/datasets/tentotheminus9/gravity-spy-gravitational-waves
